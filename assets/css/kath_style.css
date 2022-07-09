@@ -62,6 +62,7 @@
 }
 
 .kath-img-shadowed {
+	max-width: 360px;
 	filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.5));
 }
 
@@ -83,11 +84,30 @@
 }
 
 #hero .btn-get-started:hover {
-	background: ##225d8c;
+	background: #225d8c;
 }
 
 .kath-learn-more {
 	text-align: center;
+}
+
+.kath-img-about-me {
+	max-width: 350px;
+}
+
+.kath-cert-img {
+	max-width: 150px;
+	position: relative;
+}
+
+.portfolio .portfolio-item .kath-cert-label {
+	left: 0;
+	right: 0;
+}
+
+.portfolio .portfolio-item .kath-cert-label a {
+	font-size: 24px;
+	color: #ffffff;
 }
 
 #services ul {
