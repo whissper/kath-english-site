@@ -91,6 +91,11 @@
 	text-align: center;
 }
 
+.about .content .btn-learn-more {
+	font-family: "Jost", sans-serif;
+	font-size: 16px;
+}
+
 .kath-img-about-me {
 	max-width: 350px;
 }
@@ -98,6 +103,10 @@
 .kath-cert-img {
 	max-width: 150px;
 	position: relative;
+}
+
+.kath-img-my-programs {
+	max-width: 450px;
 }
 
 .portfolio .portfolio-item .kath-cert-label {
@@ -140,6 +149,7 @@
 
 .why-us .accordion-list a { 
 	font-size: 20px;
+	font-family: "Jost", sans-serif;
 }
 
 .why-us .accordion-list ul {
