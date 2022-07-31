@@ -105,10 +105,6 @@
 	position: relative;
 }
 
-.kath-img-my-programs {
-	max-width: 450px;
-}
-
 .portfolio .portfolio-item .kath-cert-label {
 	left: 0;
 	right: 0;
@@ -117,6 +113,27 @@
 .portfolio .portfolio-item .kath-cert-label a {
 	font-size: 24px;
 	color: #ffffff;
+}
+
+.kath-img-my-programs {
+	max-width: 450px;
+}
+
+.pricing .row {
+	padding-top: 0;
+}
+
+.pricing .box {
+	padding: 20px 25px;
+}
+
+.pricing h3,
+.pricing h4 {
+	margin-bottom: 0;
+}
+
+.pricing ul {
+	padding: 0;
 }
 
 #services ul {
